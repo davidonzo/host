@@ -18,7 +18,7 @@ MISP expansion/hover module implementing [apiosintDS API library](https://github
 * sha256
 * filename|md5
 * filename|sha1
-* filename|sha256"
+* filename|sha256
 
 ## Module options
 * **import_related_hashes** *(yes|no)*
