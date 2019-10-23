@@ -44,7 +44,7 @@ Three urls returned as related items.
 #### Usage: hover | Entity: IPv4 | import_related_hashes = yes
 ![usage_example_2](https://raw.githubusercontent.com/davidonzo/host/master/examples_apiosintDS_MISP_Module/ip_hash.png)
 
-#### Usage: expantion | Entity: IPv4 | import_related_hashes = yes!
+#### Usage: expantion | Entity: IPv4 | import_related_hashes = yes
 ![usage_example_3](https://raw.githubusercontent.com/davidonzo/host/master/examples_apiosintDS_MISP_Module/enrich_results.png)
 
 ### More info
