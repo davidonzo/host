@@ -21,7 +21,7 @@ MISP expansion/hover module implementing [apiosintDS API library](https://github
 ## Module options
 * **import_related_hashes** *(yes|no)*
 
-⋅⋅⋅If *yes* for attributes differents from hashes, the module will attach a set of hashes (md5, sha1 and sha256) for any related URLs retrived.
+...If *yes* for attributes differents from hashes, the module will attach a set of hashes (md5, sha1 and sha256) for any related URLs retrived.
 
 * **cache** *(yes|no)* *highly recommended*
 
